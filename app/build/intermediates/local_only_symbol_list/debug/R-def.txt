@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_collections_white_18dp
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable photo_2
+drawable pixel_google
+id activity_main
+id profile_image
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string battery
+string buy
+string content_specs_battery
+string content_specs_display
+string content_specs_size
+string content_text
+string display
+string my_name
+string seller
+string size
+string specification
+string stock
+string total_photo
+string total_value
+style Theme.Application
