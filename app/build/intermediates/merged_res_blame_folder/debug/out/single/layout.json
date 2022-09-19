@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.andihasan7.viewviewgroup.app-mergeDebugResources-25:/layout/activity_main.xml",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.andihasan7.viewviewgroup.app-main-28:/layout/activity_main.xml"
-    },
-    {
         "merged": "com.andihasan7.viewviewgroup.app-mergeDebugResources-25:/layout/activity_main.xml",
         "source": "com.andihasan7.viewviewgroup.app-main-28:/layout/activity_main.xml"
     }

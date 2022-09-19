@@ -4,7 +4,7 @@
             "outputFile": "com.andihasan7.viewviewgroup.app-mergeDebugResources-24:/values-is/values-is.xml",
             "map": [
                 {
-                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/7f7db4d26c957774d815f61f033dfd2e/transformed/core-1.8.0/res/values-is/values-is.xml",
+                    "source": "/home/andihasan/.gradle/caches/transforms-3/7f7db4d26c957774d815f61f033dfd2e/transformed/core-1.8.0/res/values-is/values-is.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/a8a4231f4387159a0b3392ed94b247f6/transformed/appcompat-1.4.2/res/values-is/values-is.xml",
+                    "source": "/home/andihasan/.gradle/caches/transforms-3/a8a4231f4387159a0b3392ed94b247f6/transformed/appcompat-1.4.2/res/values-is/values-is.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/9d8eef1818d8fe72febc07e5f60f8c7d/transformed/material-1.6.1/res/values-is/values-is.xml",
+                    "source": "/home/andihasan/.gradle/caches/transforms-3/9d8eef1818d8fe72febc07e5f60f8c7d/transformed/material-1.6.1/res/values-is/values-is.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

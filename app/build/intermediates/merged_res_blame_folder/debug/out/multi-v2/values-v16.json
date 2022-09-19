@@ -4,7 +4,7 @@
             "outputFile": "com.andihasan7.viewviewgroup.app-mergeDebugResources-24:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/a8a4231f4387159a0b3392ed94b247f6/transformed/appcompat-1.4.2/res/values-v16/values-v16.xml",
+                    "source": "/home/andihasan/.gradle/caches/transforms-3/a8a4231f4387159a0b3392ed94b247f6/transformed/appcompat-1.4.2/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/7f7db4d26c957774d815f61f033dfd2e/transformed/core-1.8.0/res/values-v16/values-v16.xml",
+                    "source": "/home/andihasan/.gradle/caches/transforms-3/7f7db4d26c957774d815f61f033dfd2e/transformed/core-1.8.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
