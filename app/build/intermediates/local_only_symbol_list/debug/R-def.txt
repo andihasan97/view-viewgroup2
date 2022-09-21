@@ -1,11 +1,13 @@
 R_DEF: Internal format may change without notice
 local
 color black
-color purple_200
-color purple_500
-color purple_700
-color teal_200
-color teal_700
+color colorSubtitle
+color gray
+color gray_dark
+color gray_light
+color orange
+color orange_dark
+color orange_light
 color white
 drawable ic_collections_white_18dp
 drawable ic_launcher_background
@@ -32,4 +34,12 @@ string specification
 string stock
 string total_photo
 string total_value
+style ButtonGeneral
+style TextContent
+style TextContent.Small
+style TextContent.Small.White
+style TextContent.Subtitle
+style TextSpec
+style TextSpec.Field
+style TextSpec.Value
 style Theme.Application
